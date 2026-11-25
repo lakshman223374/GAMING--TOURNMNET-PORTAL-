@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+*.tsbuildinfo
+server.js
+.env
+.env.*
+!.env.example
+.vscode/*
+!.vscode/extensions.json
+tmp/

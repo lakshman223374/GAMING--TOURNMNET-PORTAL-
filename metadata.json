@@ -1,0 +1,6 @@
+{
+  "name": "Arena — Tournament Portal",
+  "description": "Esports and gaming tournament portal for managing brackets, teams, match schedules, live standings, and activity feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
